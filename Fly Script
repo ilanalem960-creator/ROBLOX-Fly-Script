@@ -6,7 +6,7 @@ local FlyScript = Instance.new("ScreenGui")
 local Gradient = Instance.new("Frame")
 local UIGradient = Instance.new("UIGradient")
 local UICorner = Instance.new("UICorner")
-local Button = Instance.new("TextButton")
+local Button = Instance.new(" ")
 local Shadow = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
 
